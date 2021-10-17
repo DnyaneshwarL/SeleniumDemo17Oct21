@@ -10,7 +10,7 @@ public class Class2 {
 		
 		System.out.println("This is the 4th line");
 		
-		
+		System.out.println("This is the 5th line");
 	}
 
 }
