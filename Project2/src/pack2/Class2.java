@@ -15,6 +15,8 @@ public class Class2 {
 		System.out.println("This is the 6th line");
 		
 		System.out.println("This is the 7th line");
+		
+		System.out.println("This is the 8th line");
 	}
 
 }
